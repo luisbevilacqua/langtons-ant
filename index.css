@@ -4,6 +4,10 @@ td {
   border: 1px solid black;
 }
 
+.dark {
+  background-color: black;
+}
+
 .ant {
   background-color: blue;
 }
